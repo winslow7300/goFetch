@@ -1,13 +1,13 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
+
+
 <html>
 <head>
     <meta charset="utf-8">
     <title>goFetch</title>
     <link href="base.css" rel="stylesheet" />
 </head>
-
 <body>
-    <header>
         <nav>
           <ul class="main">
             <li><a1>goFetch [LOGO goes here]</a></li>
@@ -19,10 +19,3 @@
             <li class="push"><a href="login.html">Login/Signup</a></li>
             </ul>
           </nav>
-
-          <h1>Body Section</h1>
-          <h2>Pet Matches Section</h2>
-          <h3>Shelters List</h3>
-</body>
-
-</html> 
