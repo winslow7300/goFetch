@@ -24,6 +24,13 @@ body > header nav {
     border-top: 2px solid #000000;
     font-family: Arial, Helvetica, sans-serif;
 }
+.main {
+    display: flex;
+}
+
+.push {
+    margin-left: auto;
+}
 
 body > header > nav ul li {
 	display: inline;
